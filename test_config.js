@@ -17,7 +17,8 @@ exports.config = {
         // './api/click.js'
         // './api/set_value.js'
         // './api/add_value.js'
-        './api/get_text.js'
+        // './api/get_text.js'
+        './api/switch_button.js'
     ],
     capabilities:[{
         "platformName": "Android",
