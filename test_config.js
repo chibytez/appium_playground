@@ -15,7 +15,9 @@ exports.config = {
     specs: [
         // './play_with_mocha.js'
         // './api/click.js'
-        './api/set_value.js'
+        // './api/set_value.js'
+        // './api/add_value.js'
+        './api/get_text.js'
     ],
     capabilities:[{
         "platformName": "Android",
