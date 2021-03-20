@@ -19,7 +19,8 @@ exports.config = {
         // './api/add_value.js'
         // './api/get_text.js'
         // './api/switch_button.js'
-        './api/wait_for_displayed.js'
+        // './api/wait_for_displayed.js'
+        './api/saveScreenShot.js'
     ],
     capabilities:[{
         "platformName": "Android",
