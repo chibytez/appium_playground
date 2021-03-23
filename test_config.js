@@ -21,8 +21,8 @@ exports.config = {
         // './api/switch_button.js'
         // './api/wait_for_displayed.js'
         // './api/saveScreenShot.js'
-        './api/swipe_vertical.js'
-
+        // './api/swipe_vertical.js'
+       './api/swipe_horizintally.js'
     ],
     capabilities:[{
         "platformName": "Android",
