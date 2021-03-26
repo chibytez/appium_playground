@@ -22,7 +22,10 @@ exports.config = {
         // './api/wait_for_displayed.js'
         // './api/saveScreenShot.js'
         // './api/swipe_vertical.js'
-       './api/swipe_horizintally.js'
+        //  './api/swipe_horizintally.js'
+        //  './src/test_script/account/TC_001_Login_PageObject_01.js'
+         './src/test_script/account/TC_001_Login_Global.js'
+
     ],
     capabilities:[{
         "platformName": "Android",
