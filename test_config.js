@@ -24,7 +24,8 @@ exports.config = {
         // './api/swipe_vertical.js'
         //  './api/swipe_horizintally.js'
         //  './src/test_script/account/TC_001_Login_PageObject_01.js'
-         './src/test_script/account/TC_001_Login_Global.js'
+        //  './src/test_script/account/TC_001_Login_Global.js'
+        './src/test_script/account/TC_003_Inheriance.js'
 
     ],
     capabilities:[{
